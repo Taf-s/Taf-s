@@ -29,7 +29,14 @@ Ltd – 2023
 
 
 
-   
+# Education 
+
+
+ Matriculated from  Westford High School in  2014 with a High Bachelors
+
+ Graduated from UCT with a Bachelor of Social science, in Economic History,
+Politics and Anthropology
+
 
 
 <!--
