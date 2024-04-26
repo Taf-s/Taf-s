@@ -3,10 +3,13 @@
 
 ## Aspiring software developer 
 
-I am an aspiring software developer currently studying at 
+I am an aspiring software developer currently studying at CodeSpace Academy. My goal is to gain as much experience and skills as I can, whilst making a positive
+impact in the work environment. Diligent, hardworking, and creative. I am
+a cheerful and charismatic individual with the ability to interact easily
+with others, whilst displaying an appealing sense of humor.
 I am proficient in **HTML**, **CSS**, **Javascript** and **Tailwind**
 
-   0713983392
+   071 398 3392
 
    tafara.sithole@gmail.com
 
