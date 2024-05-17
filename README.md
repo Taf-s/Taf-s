@@ -27,8 +27,6 @@ I am proficient in **HTML**, **CSS**, **Javascript** and **Tailwind**
 
  Bartender at Shaker: 2017 – 2018
 
- Sales Marketing &amp; Events Coordination: Kong (Holland Bar (Pty)
-Ltd – 2023
 
 
 
